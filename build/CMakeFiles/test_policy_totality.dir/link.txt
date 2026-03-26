@@ -1,1 +1,0 @@
-/usr/bin/cc -Werror -O3 -DNDEBUG CMakeFiles/test_policy_totality.dir/tests/identity/test_policy_totality.c.o -o test_policy_totality  libaxioma-policy.a 
