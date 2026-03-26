@@ -1,0 +1,2 @@
+/usr/bin/ar qc libaxioma-policy.a "CMakeFiles/axioma-policy.dir/src/policy.c.o"
+/usr/bin/ranlib libaxioma-policy.a

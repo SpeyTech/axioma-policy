@@ -1,0 +1,5 @@
+/home/william/axilog/axioma-policy/build/CMakeFiles/axioma-policy.dir
+/home/william/axilog/axioma-policy/build/CMakeFiles/test_policy_totality.dir
+/home/william/axilog/axioma-policy/build/CMakeFiles/test.dir
+/home/william/axilog/axioma-policy/build/CMakeFiles/edit_cache.dir
+/home/william/axilog/axioma-policy/build/CMakeFiles/rebuild_cache.dir
