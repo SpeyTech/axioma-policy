@@ -10,7 +10,7 @@
  * SRS-003-SHALL-002: Q16.16 fixed-point arithmetic (no floating-point)
  * SRS-003-SHALL-003: Bit-identical AX:POLICY:v1 records
  *
- * Copyright (c) 2026 The Murray Family Innovation Trust
+ * Copyright (c) 2026 Spey Systems LTD
  * SPDX-License-Identifier: GPL-3.0-or-later
  * Patent: UK GB2521625.0
  */
