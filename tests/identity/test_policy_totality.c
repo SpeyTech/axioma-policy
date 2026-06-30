@@ -6,7 +6,7 @@
  * SRS-003 Coverage: 22 SHALL requirements
  *
  * Copyright (c) 2026 Spey Systems LTD
- * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-License-Identifier: AGPL-3.0-or-later
  */
 
 #include "axilog/policy.h"
